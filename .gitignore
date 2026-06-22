@@ -1,0 +1,16 @@
+# large input/output data
+data/*.nc
+data/*.tif
+data/**/*.tif
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# local generated plots
+plots/*.png
+plots/*.pdf
