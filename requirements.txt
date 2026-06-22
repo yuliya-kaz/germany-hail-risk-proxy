@@ -1,0 +1,8 @@
+numpy
+matplotlib
+netCDF4
+cartopy
+geopandas
+rasterio
+rasterstats
+shapely
