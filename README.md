@@ -20,6 +20,12 @@ This is a screening-level relative risk index, not an insured-loss or
 damage estimate. No claims data, insured values, or vulnerability 
 functions are included.
 
+## Example output
+
+The figure below shows the final three-panel output of the workflow: observed hail hazard, population exposure and the resulting relative hail risk proxy.
+
+![Germany hail risk proxy](figures/00_hail_risk_project_three_panel_report_style.png)
+
 ## Project structure
 
 ```text
